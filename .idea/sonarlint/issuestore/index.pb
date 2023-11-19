@@ -7,8 +7,6 @@ Ocommon/common-domain/src/main/java/com/quick/eats/domain/entity/BaseEntity.java
 Pcommon/common-domain/src/main/java/com/quick/eats/domain/valueobject/BaseId.java,1/c/1c0fd5d24c9ee622070286c2280c70d424b00bfd
 
 Ocommon/common-domain/src/main/java/com/quick/eats/domain/event/DomainEvent.java,f/f/ff7f69ecb477569529cc0fe2a9e96bcf6f1a02a6
-á
-Wcommon/common-domain/src/main/java/com/quick/eats/domain/exception/DomainException.java,b/9/b9a4a1938c45b9721fec6da9198d83ed0b63ca2a
 k
 ;common/common-domain/src/main/java/com/quick/eats/Main.java,c/d/cdd5f954dc2fd4fa056f3ac0892c9d5e9494f21d
 v
@@ -27,16 +25,12 @@ Ocommon/common-domain/src/main/java/com/quick/eats/domain/valueobject/Money.java
 porder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/entity/Order.java,8/d/8d53211bb7a3ddfdff881b4fca5cab1d1de2420d
 ≠
 }order-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/event/OrderCancelledEvent.java,6/a/6a44dab469bf38572441d80c9b1b0b60e25f4842
-≥
-Çorder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/exception/OrderDomainException.java,4/6/460130f57a167cfd43c4d1bf4de267c50b2a0389
 §
 torder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/event/OrderEvent.java,5/0/506a9695e7de7e9163618ca54c733f69f3a0ec5e
 Å
 Qcommon/common-domain/src/main/java/com/quick/eats/domain/valueobject/OrderId.java,1/1/1112b15388851b07810908ba5648e1d62b0219f8
 ´
 {order-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/valueobject/OrderItemId.java,3/c/3c3b5fb3faa04aa729a88f19d65b7a838c8f0e03
-µ
-Ñorder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/exception/OrderNotFoundException.java,2/1/21b8728b14084ffba9352a565255b1a29f133d45
 Ö
 Ucommon/common-domain/src/main/java/com/quick/eats/domain/valueobject/OrderStatus.java,2/d/2d3fc1ebf235f4817c1025994121ca3ca4c738dd
 L
