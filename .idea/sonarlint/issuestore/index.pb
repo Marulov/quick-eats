@@ -5,8 +5,6 @@ Rcommon/common-domain/src/main/java/com/quick/eats/domain/entity/AggregateRoot.j
 Ocommon/common-domain/src/main/java/com/quick/eats/domain/entity/BaseEntity.java,0/c/0c53b15bceff911a289eccf7b15b540e14dd6732
 €
 Pcommon/common-domain/src/main/java/com/quick/eats/domain/valueobject/BaseId.java,1/c/1c0fd5d24c9ee622070286c2280c70d424b00bfd
-£
-sorder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/entity/Customer.java,2/0/201a3b5fd1dc395d72d7fb4f93ff543ced4d12c6
 „
 Tcommon/common-domain/src/main/java/com/quick/eats/domain/valueobject/CustomerId.java,0/f/0fde08ce956b5c34a876ae029f2e13b93d8d15bb
 
@@ -21,8 +19,6 @@ t
 Dorder-service/order-container/src/main/java/com/quick/eats/Main.java,c/0/c040b7571c4edb353e5936c404d6a0100c9a599e
 u
 Eorder-service/order-dataaccess/src/main/java/com/quick/eats/Main.java,2/0/20cc3b07128128fb845d8b2884b42bcd0272034f
-‹
-[order-service/order-domain/order-application-service/src/main/java/com/quick/eats/Main.java,3/6/36bec4db4e0131ca9c8a422a6cc52de184c25ad1
 ƒ
 Sorder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/Main.java,1/f/1f0d91d94b0aee8d3d806845f8305f3fbb648bfc
 t
@@ -47,8 +43,6 @@ torder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order
 {order-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/valueobject/OrderItemId.java,3/c/3c3b5fb3faa04aa729a88f19d65b7a838c8f0e03
 µ
 „order-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/exception/OrderNotFoundException.java,2/1/21b8728b14084ffba9352a565255b1a29f133d45
-¨
-xorder-service/order-domain/order-domain-core/src/main/java/com/quick/eats/order/service/domain/event/OrderPaidEvent.java,b/2/b27598375b168561dde437bd2a2b739142ff476d
 …
 Ucommon/common-domain/src/main/java/com/quick/eats/domain/valueobject/OrderStatus.java,2/d/2d3fc1ebf235f4817c1025994121ca3ca4c738dd
 L
